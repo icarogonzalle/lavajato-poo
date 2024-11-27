@@ -64,17 +64,3 @@ O projeto foi implementado em **Java** e fornece um sistema autônomo para geren
 - **Linguagem**: Java
 - **Paradigma**: Programação Orientada a Objetos (POO)
 
----
-
-## Estrutura do Projeto
-src/
-├── entidades/
-│   ├── Cliente.java
-│   ├── Funcionario.java
-│   ├── Veiculo.java
-│   └── Servico.java
-├── serviços/
-│   ├── Pagamento.java
-│   └── CalculadoraDeTaxas.java
-└── main/
-    └── LavaJatoApp.java
